@@ -12,6 +12,9 @@ This is an analysis of COVID data
 This repository contains the work for the capstone project of the Data Science Nanodegree on Udacity.
 A blogpost showcasing the motivation, research questions, method, results and conclusion can be found here:
 https://medium.com/p/d5ddaacce88d/edit
+I use the dataset provided by Our World in Data (https://github.com/owid/covid-19-data/tree/master/public/data). 
+I started the project on 2021-11-26, hence, in order to be able to work with stable conclusions about the data, 
+I use the dataset downloded on that day.
 
 -------------
 
