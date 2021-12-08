@@ -8,13 +8,13 @@
 
 ## Project Description <a name="description"></a>
 
-This is an analysis of COVID data
-This repository contains the work for the capstone project of the Data Science Nanodegree on Udacity.
+This is an analysis of COVID data.
+The repository contains the work for the capstone project of the Data Science Nanodegree on Udacity.
 A blogpost showcasing the motivation, research questions, method, results and conclusion can be found here:
-https://medium.com/@jakob.reinhardt/the-analysis-of-covid-19-data-d5ddaacce88d
+https://medium.com/@jakob.reinhardt/the-analysis-of-covid-19-data-d5ddaacce88d .
 I use the dataset provided by Our World in Data (https://github.com/owid/covid-19-data/tree/master/public/data). 
-I started the project on 2021-11-26, hence, in order to be able to work with stable conclusions about the data, 
-I use the dataset downloded on that day.
+The project was started on 2021-11-26. In order to work with stable conclusions about the data, 
+I used the dataset downloded on that day throughout the projekt.
 
 -------------
 
@@ -26,9 +26,11 @@ I used python version 3.8.8
 -------------
 ## File Descriptions <a name="files"></a>
 
-- xyz : abc
+- Work.ipynb: This Jupyter Notebook contains the data analysis. Use it with the given dataset or download a newer version of the dataset from the Our World In Data repository.
 
-- 
+- owid-covid-data.csv : Covid Dataset downloaded on 2021-11-26
+
+- correlation_matrix.pkl : Pikle file of the correlation matrix that includes the R and P-Values for similarity of countries. This is an output of the Work.ipynb
 
 -------------
 
