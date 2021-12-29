@@ -32,6 +32,8 @@ I used python version 3.8.8
 
 - correlation_matrix.pkl : Pikle file of the correlation matrix that includes the R and P-Values for similarity of countries. This is an output of the Work.ipynb
 
+- model.pkl: the model used to predict total corona infections
+
 -------------
 
 ## Credits <a name="credits"></a>
